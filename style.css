@@ -24,6 +24,8 @@ h1, h2 {
 }
 
 #information h2, h3, p {
+    float: left;
+	
     -webkit-animation: fadein 8s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 8s; /* Firefox < 16 */
         -ms-animation: fadein 8s; /* Internet Explorer */
