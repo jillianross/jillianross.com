@@ -23,16 +23,6 @@ h1, h2 {
             animation: fadein 4s;
 }
 
-#information h2, h3, p {
-    float: right;
-	
-    -webkit-animation: fadein 8s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadein 8s; /* Firefox < 16 */
-        -ms-animation: fadein 8s; /* Internet Explorer */
-         -o-animation: fadein 8s; /* Opera < 12.1 */
-            animation: fadein 8s;
-}
-
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
