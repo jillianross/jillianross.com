@@ -20,6 +20,10 @@ h1, h2 {
 }
 
 .introduction {
+	-webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
     -webkit-animation: fadein 10s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 10s; /* Firefox < 16 */
         -ms-animation: fadein 10s; /* Internet Explorer */
@@ -28,6 +32,10 @@ h1, h2 {
 }
 
 .information {
+	-webkit-animation-delay: 3s;
+	-moz-animation-delay: 3s;
+	-o-animation-delay: 3s;
+	animation-delay: 3s;
     -webkit-animation: fadein 20s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 20s; /* Firefox < 16 */
         -ms-animation: fadein 20s; /* Internet Explorer */
