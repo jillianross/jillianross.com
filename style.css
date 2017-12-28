@@ -20,10 +20,10 @@ h1, h2 {
 }
 
 .introduction {
-	-webkit-animation-delay: 2s;
-	-moz-animation-delay: 2s;
-	-o-animation-delay: 2s;
-	animation-delay: 2s;
+	-webkit-animation-delay: 5s;
+	-moz-animation-delay: 5s;
+	-o-animation-delay: 5s;
+	animation-delay: 5s;
     -webkit-animation: fadein 10s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 10s; /* Firefox < 16 */
         -ms-animation: fadein 10s; /* Internet Explorer */
@@ -32,15 +32,15 @@ h1, h2 {
 }
 
 .information {
-	-webkit-animation-delay: 3s;
-	-moz-animation-delay: 3s;
-	-o-animation-delay: 3s;
-	animation-delay: 3s;
-    -webkit-animation: fadein 20s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadein 20s; /* Firefox < 16 */
-        -ms-animation: fadein 20s; /* Internet Explorer */
-         -o-animation: fadein 20s; /* Opera < 12.1 */
-            animation: fadein 20s;
+	-webkit-animation-delay: 7s;
+	-moz-animation-delay: 7s;
+	-o-animation-delay: 7s;
+	animation-delay: 7s;
+    -webkit-animation: fadein 15s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 15s; /* Firefox < 16 */
+        -ms-animation: fadein 15s; /* Internet Explorer */
+         -o-animation: fadein 15s; /* Opera < 12.1 */
+            animation: fadein 15s;
 }
 
 @keyframes fadein {
